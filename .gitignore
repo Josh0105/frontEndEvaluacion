@@ -38,9 +38,9 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
-angular/cache/
+frontEndEvaluacion/node_modules/
+frontEndEvaluacion/jspm_packages/
+frontEndEvaluacion/angular/cache/
 
 # TypeScript v1 declaration files
 typings/
@@ -105,4 +105,4 @@ dist
 .tern-port
 
 # Miscellaneous
-/.angular/cache
+frontEndEvaluacion/.angular/cache
